@@ -79,8 +79,8 @@ CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 # Other
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", script.IMDB_TEMPLATE)
 FILE_CAPTION = environ.get("FILE_CAPTION", script.FILE_CAPTION)
-SHORTLINK_URL = environ.get("SHORTLINK_URL", "OmegaLinks.in")
-SHORTLINK_API = environ.get("SHORTLINK_API", "1fd84c55d400dec1a58941a77714b89917ba0f6e)
+SHORTLINK_URL = environ.get("SHORTLINK_URL", "Mdisklink.link")
+SHORTLINK_API = environ.get("SHORTLINK_API", "1862e74404f0b8dc885f1912309028376b1d5b0f)
 WELCOME_TEXT = environ.get("WELCOME_TEXT", script.WELCOME_TEXT)
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/ALAS_NOW")
 
